@@ -1,23 +1,32 @@
-# YooHyeonJun
+<h1 align="center">YooHyeonJun</h1>
 
-Computer Engineering student interested in malware analysis, reverse engineering, network security, and low-level system programming.
+<p align="center">
+  Computer Engineering student focused on malware analysis, reverse engineering,
+  network security, and low-level system programming.
+</p>
 
-## Interest
+<p align="center">
+  <a href="https://ieeexplore.ieee.org/document/11077838">Publication</a> ·
+  <a href="https://github.com/YooHyeonJun">GitHub</a>
+</p>
 
-- Malware Analysis
-- Reverse Engineering
-- Network Security
-- System Programming
-- C / C++ / Python
-- Packet Analysis with libpcap
-- Windows PE Analysis
+## About
+
+- Malware analysis and reverse engineering
+- Network security and packet analysis
+- Low-level C / C++ / Python development
+- Windows PE file inspection and disassembly
 
 ## Credentials
 
 - Taekwondo 4th Dan
 - OPIc IH
 
-## Tech Stack
+## Publication
+
+- IEEE Xplore: [11077838](https://ieeexplore.ieee.org/document/11077838)
+
+## Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -25,28 +34,25 @@ Computer Engineering student interested in malware analysis, reverse engineering
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Projects
-
-### Malware / Security
+## Selected Work
 
 - Static and dynamic malware analysis practice
 - PE file parsing and disassembly
-- Packet capture and network analysis with libpcap
+- Packet capture and network analysis with `libpcap`
 - ARP packet generation and network security experiments
-
-### System / Network Programming
-
-- C/C++ system programming
 - TCP/IP socket programming
 - Linux networking tools
-- Packet structure analysis
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YooHyeonJun&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YooHyeonJun&show_icons=true&theme=default" alt="GitHub stats" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YooHyeonJun&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YooHyeonJun&layout=compact" alt="Top languages" />
+</p>
 
 ## Contact
 
-- GitHub: @YooHyeonJun
+- GitHub: `@YooHyeonJun`
