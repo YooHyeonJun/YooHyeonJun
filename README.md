@@ -17,6 +17,11 @@
 - Low-level C / C++ / Python development
 - Windows PE file inspection and disassembly
 
+## Education
+
+- B.S. in Computer Information Engineering, Kwangwoon University, 2020.03–2025.08
+- M.S. in Computer Engineering, Kwangwoon University, 2025.09–2027.02 (expected)
+
 ## Credentials
 
 - Taekwondo 4th Dan

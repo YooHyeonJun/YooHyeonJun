@@ -8,7 +8,7 @@
 
 ### 2026
 
-- HyeonJun Yoo and Jihyeon Ryu, "RAT C2 Communication Analysis Using a Selective Symbolic Execution-Based Framework," *CISC-S 2026*, Korea Institute of Information Security and Cryptology, oral.
+- HyeonJun Yoo and Jihyeon Ryu, "RAT C2 Communication Analysis Using a Selective Symbolic Execution-Based Framework," *CISC-S 2026*, Korea Institute of Information Security and Cryptology, oral. Thesis Paper Excellent Award.
 
 ### 2025
 
@@ -18,6 +18,13 @@
 ### 2024
 
 - Somi Lim, HyeonJun Yoo, Seoyeon Choi, and Jihyeon Ryu, "A Study on Anti-Analysis Technique Detection Using Graph Neural Network," *CISC-S 2024*, Korea Institute of Information Security and Cryptology, oral.
+
+## Awards & Scholarship
+
+- [2026.06] AI Seoul Tech Scholarship
+- [2025.05] Korea Information Security Society Thesis Award
+- [2025.11] AI Seoul Tech Scholarship
+- [2024.08] Kwangwoon University Academic Achievement Award
 
 ## Note
 
