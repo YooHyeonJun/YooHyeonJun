@@ -12,6 +12,11 @@ Computer Engineering student interested in malware analysis, reverse engineering
 - Packet Analysis with libpcap
 - Windows PE Analysis
 
+## Credentials
+
+- Taekwondo 4th Dan
+- OPIc IH
+
 ## Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
