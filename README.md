@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ieeexplore.ieee.org/document/11077838">Publication</a> ·
+  <a href="./publications.md">Publications</a> ·
   <a href="https://github.com/YooHyeonJun">GitHub</a>
 </p>
 
@@ -21,10 +21,6 @@
 
 - Taekwondo 4th Dan
 - OPIc IH
-
-## Publication
-
-- IEEE Xplore: [11077838](https://ieeexplore.ieee.org/document/11077838)
 
 ## Stack
 
